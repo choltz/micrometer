@@ -1,0 +1,16 @@
+#!/usr/bin/env ruby
+require 'rubygems'
+require 'bundler/setup'
+Bundler.require(:default, :development)
+
+debugger
+g1
+
+
+# begin
+#   load File.expand_path("../spring", __FILE__)
+# rescue LoadError
+# end
+# APP_PATH = File.expand_path('../../config/application', __FILE__)
+# require_relative '../config/boot'
+# require 'rails/commands'
