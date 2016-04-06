@@ -3,9 +3,6 @@ require 'rubygems'
 require 'bundler/setup'
 Bundler.require(:default, :development)
 
-debugger
-g1
-
 
 # begin
 #   load File.expand_path("../spring", __FILE__)
