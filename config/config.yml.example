@@ -1,0 +1,8 @@
+development:
+  :entrypoint: app/services/start.rb
+
+test:
+  :entrypoint: app/services/start.rb
+
+production:
+  :entrypoint: app/services/start.rb
